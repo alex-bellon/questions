@@ -5,3 +5,4 @@
 - What websites does the Wayback Machine decide to automatically archive?
 - Can animals hear the frequencies that we use for electronics?
 - What is the overall frequency of accented characters in passwords?
+- How does soap work?
