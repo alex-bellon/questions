@@ -6,3 +6,5 @@
 - Can animals hear the frequencies that we use for electronics?
 - What is the overall frequency of accented characters in passwords?
 - How does soap work?
+- Do other animals get hiccups?
+- What makes wet dogs smell?
