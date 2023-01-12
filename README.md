@@ -12,3 +12,4 @@ Here is a list of random questions I have thought of and want to find an answer 
 - Do other animals get hiccups?
 - What makes wet dogs smell?
 - How do seatbelt stoppers work?
+- How often does Friday the 13th occur?
