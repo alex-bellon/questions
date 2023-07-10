@@ -1,0 +1,25 @@
+* Questions
+Here is a list of random questions I have thought of and want to find an answer to (at some point). If you know the answer to any of these questions please let me know!
+
+** Unanswered
+- When your phone (or whatever) saves a WiFi network, what information is it saving? SSID? Password? Keys?
+  - Basically what would you need to spoof to have the victim device connect to your malicious spoofed network?
+- What websites does the Wayback Machine decide to automatically archive?
+- Can animals hear the frequencies that we use for electronics?
+- What is the overall frequency of accented characters in passwords?
+- How does soap work?
+- Do other animals get hiccups?
+- What makes wet dogs smell?
+- How do seatbelt stoppers work?
+- How often does Friday the 13th occur?
+- What is snot?
+- Why are picture inserts usually in the middle of the books and not the end?
+- What are black sesame seeds?
+- How does lipbalm work?
+
+** Answered
+*** What are birthmarks?
+Dermatologists divide birthmarks into two types: pigmented birthmarks and vascular birthmarks. Pigmented birthmarks caused by excess skin pigment cells include: moles, café au lait spots, and Mongolian spots. Vascular birthmarks, also called red birthmarks, are caused by increased blood vessels and include macular stains (salmon patches), hemangiomas, and port-wine stains.
+
+*** Why are silicon wafers round?
+When the crystals are grown, they are rotated while being pulled out of the pool they grow in. Then they're sliced up and sent to chip manufacturers.
