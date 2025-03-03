@@ -16,6 +16,17 @@ Here is a list of random questions I have thought of and want to find an answer 
 - Why are picture inserts usually in the middle of the books and not the end?
 - What are black sesame seeds?
 - How does lipbalm work?
+- Is there a name for words like "plane/plane" or "hammer/hammer" which describe both the tool (noun) and the action?
+- How many non-US citizens have received the presidental medal of freedom?
+- How do fish sleep?
+- How do they print on plastic?
+- What is poop made of?
+- Do mushrooms grow in the desert?
+- What genders do worms have?
+- Are there animals with >2 (common) sexes?
+- Are all sex chromosomes X and Y in all species? If not what are they?
+- Do all caterpillars become butterflies? Are they the same species as the butterfly they become?
+- Why does an orchestra conductor leave and come back to the stage multiple times after a performance?
 
 ** Answered
 *** What are birthmarks?
@@ -23,3 +34,8 @@ Dermatologists divide birthmarks into two types: pigmented birthmarks and vascul
 
 *** Why are silicon wafers round?
 When the crystals are grown, they are rotated while being pulled out of the pool they grow in. Then they're sliced up and sent to chip manufacturers.
+
+*** Why do we have armpit hair?
+Armpit hair allows for the arm to move with reduced friction when running/walking. It also (possibly) helps wick away sweat. 
+
+[[https://en.wikipedia.org/wiki/Underarm_hair][Source]]
